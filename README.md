@@ -12,6 +12,11 @@ Writing, as explained in Andrew Etter's book Modern Technical Writing
 Include a link to a good Markdown tutorial under "More Resources." You do not need
 to explain how to use Markdown.
 ## Instructions, including animated gif
+
+ - How do I create the repo ? 
+    -Steps to create repo: 
+    - Create repo with read me 
+    - Upload resume.md 
 Use headings and numbered lists
 Remember to use each step to explain
 both how to follow the tools and model Etter
