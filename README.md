@@ -1,12 +1,17 @@
 # 3040-A1
 Template: 
 
-1. Title
-2. Purpose: describe the README's purpose (see above)
-3. Prerequisites: This should include a resume formatted in Markdown
+# Title
+## Purpose: 
+This read me has two goals: 
+1. To describe the steps of how to host and format a resume using Markdown, VSCode, and Jekyll. 
+2. Relate these steps described above to the to the general principles of current Technical
+Writing, as explained in Andrew Etter's book Modern Technical Writing
+
+## Prerequisites: This should include a resume formatted in Markdown
 Include a link to a good Markdown tutorial under "More Resources." You do not need
 to explain how to use Markdown.
-4. Instructions, including animated gif
+## Instructions, including animated gif
 Use headings and numbered lists
 Remember to use each step to explain
 both how to follow the tools and model Etter
