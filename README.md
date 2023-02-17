@@ -8,9 +8,8 @@ This read me has two goals:
 2. Relate these steps described above to the to the general principles of current Technical
 Writing, as explained in Andrew Etter's book Modern Technical Writing
 
-## Prerequisites: This should include a resume formatted in Markdown
-Include a link to a good Markdown tutorial under "More Resources." You do not need
-to explain how to use Markdown.
+## Prerequisites: 
+- A resume created/formatted using [markdown](https://www.markdownguide.org/basic-syntax/). 
 ## Instructions, including animated gif
 
  - How do I create the repo ? 
