@@ -17,6 +17,7 @@ to explain how to use Markdown.
     -Steps to create repo: 
     - Create repo with read me 
     - Upload resume.md 
+    - 
 Use headings and numbered lists
 Remember to use each step to explain
 both how to follow the tools and model Etter
